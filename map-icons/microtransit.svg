@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 30 30"
+   version="1.1"
+   sodipodi:docname="microtransit.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="30"
+   height="30">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>bus</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1262"
+     inkscape:window-height="842"
+     id="namedview23"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="-11.88287"
+     inkscape:cy="-6.3143402"
+     inkscape:window-x="592"
+     inkscape:window-y="80"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs12">
+    <style
+       id="style10">.cls-1{fill:none;}</style>
+  </defs>
+  <title
+     id="title14">bus</title>
+  <circle
+     style="fill:#eaeaea;fill-opacity:1"
+     id="path27"
+     cx="15.223774"
+     cy="15"
+     r="15" />
+  <path
+     d="m 22.908025,19.99059 a 0.50201696,0.50284095 0 0 0 -0.470641,-0.499698 l -0.197669,-6.026235 a 0.92245616,0.92397029 0 0 0 -0.90363,-0.890972 H 8.6727069 a 0.91931855,0.92082754 0 0 0 -0.9020614,0.890972 q -0.098835,3.015475 -0.1992388,6.026235 a 0.49887934,0.49969819 0 0 0 -0.032947,0.996254 v 0.116282 a 0.86597924,0.86740069 0 0 0 0.8785294,0.892542 h 0.012547 a 2.0394439,2.0427914 0 0 1 4.0380979,0 h 5.065665 a 2.0394439,2.0427914 0 0 1 4.056925,0 v 0 a 0.86597924,0.86740069 0 0 0 0.87853,-0.892542 v -0.116282 a 0.50201696,0.50284095 0 0 0 0.439264,-0.496556 z m -10.61609,-2.080504 a 0.45495286,0.45569961 0 0 1 -0.453384,0.446271 H 9.5700619 a 0.43298962,0.43370035 0 0 1 -0.436127,-0.446271 q 0.047064,-1.841656 0.095697,-3.683311 a 0.45965927,0.46041377 0 0 1 0.4502463,-0.446271 h 2.2229938 a 0.43926484,0.43998585 0 0 1 0.434559,0.446271 z m 4.10242,1.931223 a 0.44554005,0.44627136 0 0 1 -0.44554,0.446272 H 14.05527 a 0.44554005,0.44627136 0 0 1 -0.445541,-0.446272 v -5.614534 a 0.44710886,0.44784274 0 0 1 0.445541,-0.446271 h 1.893545 a 0.44710886,0.44784274 0 0 1 0.44554,0.446271 z m 4.041236,-1.484952 h -2.270057 a 0.45495286,0.45569961 0 0 1 -0.453385,-0.446271 q -0.02196,-1.841656 -0.04392,-3.683311 a 0.43769603,0.43841448 0 0 1 0.43299,-0.446271 h 2.222994 a 0.45809047,0.45884237 0 0 1 0.450246,0.446271 q 0.04864,1.843227 0.09727,3.683311 a 0.43455843,0.43527172 0 0 1 -0.436128,0.446271 z M 14.985995,5.347797 a 2.5826939,2.5964357 0 0 0 -2.582693,2.5964363 c 0,2.2255157 2.582693,4.2193497 2.582693,4.2193497 0,0 2.582695,-1.993834 2.582695,-4.2193497 A 2.5826939,2.5964357 0 0 0 14.985995,5.347797 Z m 0,3.8946531 a 1.2913469,1.2982178 0 1 1 1.291347,-1.2982168 1.2913469,1.2982178 0 0 1 -1.291347,1.2982168 z m 4.572636,11.1001279 a 1.3727026,1.3749558 0 1 0 1.374271,1.374957 1.3742714,1.3765272 0 0 0 -1.374271,-1.374957 z m -9.113176,0.05971 a 1.3727026,1.3749558 0 1 0 1.372702,1.374956 1.3742714,1.3765272 0 0 0 -1.372702,-1.374956 z"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="fill:#00205b;fill-opacity:1;stroke-width:0.15700899" />
+  <circle
+     style="fill:none;fill-opacity:1;stroke:#fed141;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path837"
+     cx="15"
+     cy="15"
+     r="13" />
+</svg>

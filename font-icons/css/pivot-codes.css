@@ -1,0 +1,12 @@
+
+.icon-bike:before { content: '\e800'; } /* '' */
+.icon-car:before { content: '\e801'; } /* '' */
+.icon-microtransit:before { content: '\e802'; } /* '' */
+.icon-ridehail:before { content: '\e803'; } /* '' */
+.icon-ridehail-simple:before { content: '\e804'; } /* '' */
+.icon-scooter:before { content: '\e805'; } /* '' */
+.icon-transit:before { content: '\e806'; } /* '' */
+.icon-walking:before { content: '\e807'; } /* '' */
+.icon-back:before { content: '\e808'; } /* '' */
+.icon-pin:before { content: '\e809'; } /* '' */
+.icon-rolling:before { content: '\e80a'; } /* '' */

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 100.81605 113.7878"
+   version="1.1"
+   sodipodi:docname="microtransit.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="100.81605"
+   height="113.7878">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>av_shuttle</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="1.2291667"
+     inkscape:cx="-89.368742"
+     inkscape:cy="50.000003"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <title
+     id="title2">av_shuttle</title>
+  <path
+     id="path8"
+     d="m 100.81605,93.667797 a 3.2,3.2 0 0 0 -2.999999,-3.18 l -1.26,-38.35 a 5.88,5.88 0 0 0 -5.76,-5.67 h -80.72 a 5.86,5.86 0 0 0 -5.7499997,5.67 q -0.63,19.19 -1.27,38.35 a 3.18,3.18 0 0 0 -0.21,6.34 v 0.74 a 5.52,5.52 0 0 0 5.6,5.680003 h 0.08 a 13,13 0 0 1 25.7399997,0 h 32.29 a 13,13 0 0 1 25.86,0 v 0 a 5.52,5.52 0 0 0 5.6,-5.680003 v -0.74 a 3.2,3.2 0 0 0 2.799999,-3.16 z m -67.669999,-13.24 a 2.9,2.9 0 0 1 -2.89,2.84 h -14.46 a 2.76,2.76 0 0 1 -2.78,-2.84 q 0.3,-11.72 0.61,-23.44 a 2.93,2.93 0 0 1 2.87,-2.84 h 14.17 a 2.8,2.8 0 0 1 2.77,2.84 z m 26.15,12.29 a 2.84,2.84 0 0 1 -2.84,2.84 h -12.07 a 2.84,2.84 0 0 1 -2.84,-2.84 v -35.73 a 2.85,2.85 0 0 1 2.84,-2.84 h 12.07 a 2.85,2.85 0 0 1 2.84,2.84 z m 25.76,-9.45 h -14.47 a 2.9,2.9 0 0 1 -2.89,-2.84 q -0.14,-11.72 -0.28,-23.44 a 2.79,2.79 0 0 1 2.76,-2.84 h 14.17 a 2.92,2.92 0 0 1 2.87,2.84 q 0.31,11.73 0.62,23.44 a 2.77,2.77 0 0 1 -2.78,2.84 z M 50.318763,0.4833911 A 16.462831,16.523304 0 0 0 33.855932,17.006695 c 0,14.162831 16.462831,26.851276 16.462831,26.851276 0,0 16.462831,-12.688445 16.462831,-26.851276 A 16.462831,16.523304 0 0 0 50.318763,0.4833911 Z m 0,24.7849549 a 8.2314153,8.2616516 0 1 1 8.231415,-8.261651 8.2314153,8.2616516 0 0 1 -8.231415,8.261651 z m 29.147288,70.639451 a 8.75,8.75 0 1 0 8.76,8.750003 8.76,8.76 0 0 0 -8.76,-8.750003 z m -58.09,0.38 a 8.75,8.75 0 1 0 8.75,8.750003 8.76,8.76 0 0 0 -8.75,-8.750003 z" />
+</svg>

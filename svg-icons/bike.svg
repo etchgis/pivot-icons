@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 93.663673 66.530609"
+   version="1.1"
+   sodipodi:docname="bike.svg"
+   width="93.663673"
+   height="66.530609"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>bike</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="742"
+     inkscape:window-height="480"
+     id="namedview7"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.2291667"
+     inkscape:cx="44.420518"
+     inkscape:cy="6.2220961"
+     inkscape:window-x="1148"
+     inkscape:window-y="102"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+  <title
+     id="title2">bike</title>
+  <path
+     d="m 77.420518,34.138516 c -7.45358,0.01763 -13.93324,5.118818 -15.7,12.36 h -4 l 9.07,-20.6 h 5.63 v -7.07 h -17.63 v 7.07 h 4.33 l -9.06,20.6 h -6.07 l -12.51,-24.51 5.49,-13.16 h 10.75 v -7.07 h -9.3 c -1.464433,-2.52371198 -5.184464,-2.28199798 -6.31,0.41 l -13.44,32.14 c -0.807713,-0.120706 -1.623318,-0.180874 -2.44,-0.18 C 8.2021496,34.113726 1.3738546,39.981563 0.18114361,47.919311 -1.0115454,55.856911 3.7912646,63.468464 11.46886,65.814396 c 7.677595,2.34593 15.914471,-1.28127 19.362014,-8.529889 3.447609,-7.248753 1.065169,-15.930985 -5.600356,-20.405991 l 2.66,-6.36 11.75,23 h 21.93 c 2.69308,13.4 19.75223,17.63871 28.40461,7.059322 8.65239,-10.579385 1.11332,-26.458414 -12.55461,-26.439322 z m -52.07,16.17 c 0.01749,8.035889 -9.604582,12.172487 -15.4245174,6.632591 -5.819934,-5.539895 -2.162473,-15.354101 5.8645174,-15.732591 l -3.12,7.44 c -0.77943,1.811363 0.07625,3.910021 1.9,4.66 0.430003,0.183483 0.892488,0.2787 1.36,0.28 1.425064,0.001 2.710967,-0.854944 3.26,-2.17 l 3.23,-7.77 c 1.859295,1.716688 2.920746,4.129405 2.93,6.66 z m 52.07,9.14 c -3.78412,-0.005 -7.17297,-2.343748 -8.52,-5.88 h 8.23 c 4.46922,-0.237788 4.46922,-6.832212 0,-7.07 h -8 c 3.05832,-6.505592 12.08992,-7.080188 15.94828,-1.015061 3.85835,6.065127 -0.48969,14.002037 -7.67828,14.015061 z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccccccsssccccsccsccccccccccccscc" />
+</svg>
